@@ -37,8 +37,6 @@ A Python program that calculates real-time betting odds for NHL games using live
 •	Architected and developed a real-time AI detection platform to identify AI-generated media (images, videos, text), reducing exposure to synthetic content by an estimated 90% for end-users.
 •	Implemented on-device inference by integrating pre-trained TensorFlow Lite and TensorFlow.js models, optimizing the performance.
 •	Key Technologies: Python, JavaScript, TensorFlow Lite/TF.js, React, FastAPI, Docker, AWS, SQL
-<img width="432" height="130" alt="image" src="https://github.com/user-attachments/assets/9ef247ad-a361-47d7-b400-0909e5875be7" />
-
 
 ---
 
