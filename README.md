@@ -24,16 +24,15 @@ Welcome to my personal portfolio repository! I’m a Computer Engineering studen
 
 ## 📁 Featured Projects
 
-### 🤖 Smart Line-Following Robot
-> Built and programmed a robot using Arduino and infrared sensors to follow a track autonomously.
-
 ### 🌐 Personal Portfolio Website
 > A responsive, mobile-friendly website showcasing my CV, projects, and contact info (HTML/CSS/JS).
 
-### 🧮 Calculator Web App
-> Developed a web-based calculator using React.js with real-time input validation and dark mode.
+### 🤖 Smart Line-Following Robot
+> Built and programmed a robot using Arduino and object detection sensors to follow a track autonomously in order to execute a given function.
 
-###AI Sentinel | Founder & Lead Developer | Remote | Mar 2025 – Present
+### 
+
+### AI Sentinel | Founder & Lead Developer | Remote | Mar 2025 – Present
 •	Architected and developed a real-time AI detection platform to identify AI-generated media (images, videos, text), reducing exposure to synthetic content by an estimated 90% for end-users.
 •	Implemented on-device inference by integrating pre-trained TensorFlow Lite and TensorFlow.js models, optimizing the performance.
 •	Key Technologies: Python, JavaScript, TensorFlow Lite/TF.js, React, FastAPI, Docker, AWS, SQL
