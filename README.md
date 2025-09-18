@@ -28,9 +28,9 @@ Welcome to my personal portfolio repository! I’m a Computer Engineering studen
 > A responsive, mobile-friendly website showcasing my CV, projects, and contact info (HTML/CSS/JS).
 
 ### 🤖 Smart Line-Following Robot
-> Built and programmed a robot using Arduino and object detection sensors to follow a track autonomously in order to execute a given function.
+Built and programmed a robot using Arduino and object detection sensors to follow a track autonomously in order to execute a given function.
 
-### Betting odd calculator
+### NHL Betting odds calculator
 A Python program that calculates real-time betting odds for NHL games using live statistics from the NHL API and historical data stored in an Excel sheet.
 
 ### AI Sentinel | Founder & Lead Developer | Remote | Mar 2025 – Present
