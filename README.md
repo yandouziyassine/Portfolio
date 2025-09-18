@@ -1,24 +1,24 @@
-# 💻 Yassine Yandouzi – Computer Engineering Portfolio
+# 💻 Yassine Yandouzi – Computer Engineering Portfolio -- https://yassineyandouzi.com/
 
-Welcome to my personal portfolio repository! I’m a Computer Engineering student at the University of Ottawa with a passion for **robotics**, **artificial intelligence**, **software development**, and **hardware systems**. This portfolio showcases some of the academic and personal projects I’ve built to explore and apply my knowledge in computer engineering.
+Welcome to my personal portfolio repository! I’m a Computer Engineering student at the University of Ottawa with a passion for **robotics**, **artificial intelligence**, **software development**, **hardware systems** and **Finance**. This portfolio showcases some of the academic and personal projects I’ve built to explore and apply my knowledge in computer engineering.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 **Degree:** Bachelor of Applied Science in Computer Engineering  
-- 🎯 **Interests:** Robotics, AI, Embedded Systems, Web Development  
+- 🎯 **Interests:** Robotics, Machine learning and deep learning, Embedded Systems, Finance 
 - 🚀 **Goal:** To innovate in the field of autonomous systems and intelligent software  
-- 🌐 **Website/Portfolio:** [YourPersonalWebsite.com](https://yourwebsite.com)
+- 🌐 **Website/Portfolio:** yassineyandouzi.com
 
 ---
 
 ## 🛠️ Technologies & Skills
 
-- **Languages:** Python, Java, JavaScript, HTML/CSS, Swift  
-- **Tools:** Git/GitHub, VS Code, Arduino, MATLAB, Linux, Docker, AWS, MongoDB  
-- **Frameworks:** React.js, Node.js, Flask, TensorFlow, NestJS  
-- **Concepts:** Object-Oriented Programming, Algorithms, Circuits, Embedded Systems, Networking
+- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
+- **Tools:** Git/GitHub, VS Code, Arduino, MATLAB, Linux, Docker, AWS, MongoDB, Android Studio, PostgreSQL 
+- **Frameworks & Libraries:** React.js, Node.js, Flask, TensorFlow, Pytorch, NestJS, numpy, panda, Scikit-learn, Junit  
+- **Concepts:** Object-Oriented Programming, Data structure & Algorithms, Circuits theory, Computer Architechture
 
 ---
 
@@ -33,8 +33,12 @@ Welcome to my personal portfolio repository! I’m a Computer Engineering studen
 ### 🧮 Calculator Web App
 > Developed a web-based calculator using React.js with real-time input validation and dark mode.
 
-### 🔍 AI Text Detector (WIP)
-> Working on an AI-driven browser extension to detect AI-generated content (text/image/video).
+###AI Sentinel | Founder & Lead Developer | Remote | Mar 2025 – Present
+•	Architected and developed a real-time AI detection platform to identify AI-generated media (images, videos, text), reducing exposure to synthetic content by an estimated 90% for end-users.
+•	Implemented on-device inference by integrating pre-trained TensorFlow Lite and TensorFlow.js models, optimizing the performance.
+•	Key Technologies: Python, JavaScript, TensorFlow Lite/TF.js, React, FastAPI, Docker, AWS, SQL
+<img width="432" height="130" alt="image" src="https://github.com/user-attachments/assets/9ef247ad-a361-47d7-b400-0909e5875be7" />
+
 
 ---
 
@@ -44,5 +48,6 @@ Welcome to my personal portfolio repository! I’m a Computer Engineering studen
 - 📱 Phone: (613) 606-8552  
 - 🔗 LinkedIn: [linkedin.com/in/YassineYandouzi](https://linkedin.com/in/YassineYandouzi)  
 - 🧑‍💻 GitHub: [github.com/YassineYandouzi](https://github.com/YassineYandouzi)
+- Website: Yassineyandouzi.com
 
 ---
