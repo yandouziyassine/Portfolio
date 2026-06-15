@@ -43,7 +43,7 @@ A Python program that calculates real-time betting odds for NHL games using live
 ## 📫 Contact
 
 - 📧 Email: yandouziyassine@gmail.com  
-- 📱 Phone: (613) 606-8552  
+
 - 🔗 LinkedIn: [linkedin.com/in/YassineYandouzi](https://linkedin.com/in/YassineYandouzi)  
 - 🧑‍💻 GitHub: [github.com/YassineYandouzi](https://github.com/YassineYandouzi)
 - Website: Yassineyandouzi.com
